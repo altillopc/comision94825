@@ -7,4 +7,4 @@ console.log(nom);
 console.log(Number(fec));
 console.log(nac);
 
-alert('Ud. es ' + nom + ' tiene ' + (fec - 2026) + ' años y de nacionalidad ' + nac);
+alert('Ud. es ' + nom + ' tiene ' + (2026 - fec) + ' años y de nacionalidad ' + nac);
