@@ -1,7 +1,7 @@
 
-let nom = prompt('Cuel es tu nombre?');
+let nom = prompt('Cual es tu nombre?');
 let fec = prompt('Año de nacimiento?');
-let nac = prompt('Cuel es tu nacionalidad?');
+let nac = prompt('Cual es tu nacionalidad?');
 
 console.log(nom);
 console.log(Number(fec));
