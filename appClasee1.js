@@ -1,6 +1,6 @@
 
 let nom = prompt('Cuel es tu nombre?');
-let fec = prompt('Fecha de nacimiento?');
+let fec = prompt('Año de nacimiento?');
 let nac = prompt('Cuel es tu nacionalidad?');
 
 console.log(nom);
