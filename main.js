@@ -1,0 +1,9 @@
+let nom = prompt('Cuel es tu nombre?');
+let fec = Number(prompt('Año de nacimiento?'));
+let nac = prompt('Cuel es tu nacionalidad?');
+
+console.log(nom);
+console.log(fec);
+console.log(nac);
+
+alert('Ud. es ' + nom + ' tiene ' + (2026 - fec) + ' años y de nacionalidad ' + nac);
